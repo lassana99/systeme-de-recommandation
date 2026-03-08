@@ -82,7 +82,3 @@ Les principales technologies utilisées dans ce projet sont :
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
-
----
-
-## Structure du Projet

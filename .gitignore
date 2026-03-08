@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.env
+.venv
+instance/
+.pytest_cache/
+.vscode/
+# Fichiers de données volumineux (si nécessaire)
+*.csv
+*.xlsx
+# Modèles de ML (si ils font + de 100 Mo)
+# *.pkl
+# *.h5
